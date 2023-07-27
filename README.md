@@ -22,6 +22,7 @@ To run VacationPy and WeatherPy successfully, ensure you have the following depe
 - `pandas`
 - `numpy`
 - `requests`
+- `time`
 - `scipy`
 
 You will need API keys for the OpenWeatherMap API and the Geoapify API. Store these keys in the appropriate files (`api_keys.py`) for authentication.
